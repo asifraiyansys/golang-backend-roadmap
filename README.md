@@ -374,7 +374,7 @@ Each stage is approached incrementally with practical implementation, experiment
 
 Flutter Developer → Backend Engineering Journey
 
-GitHub: [asib-research](https://github.com/asib-research)
+GitHub: [asib-research](https://github.com/asifraiyansys)
 
 Portfolio: [asifraiyansys.com](https://asifraiyansys.com)
 
